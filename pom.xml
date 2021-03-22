@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>com.larfree</groupId>
-    <artifactId>periscope-dubbo-web</artifactId>
+    <artifactId>periscope</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>periscope-dubbo-web</name>
+    <name>periscope-web</name>
     <description>periscope dubbo web</description>
 
     <properties>
